@@ -1,6 +1,6 @@
-# TelegramDesign-SwiftUI - дизайн Телеграма с помощью SwiftUI
+# TelegramDesign using SwiftUI
 
-## Скриншоты работы приложения
+## Screenshots
 
 <html>
  <body>
