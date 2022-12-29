@@ -57,7 +57,6 @@ struct MessegeRowView: View {
 										.font(.caption)
 										.foregroundColor(Color.white)
 								)
-							
 						}
 					}
 				}
