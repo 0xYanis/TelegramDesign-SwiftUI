@@ -1,5 +1,7 @@
 # TelegramDesign using SwiftUI
 
+## Просто дизайн Telegram'a :)
+
 ## Screenshots
 
 <html>
